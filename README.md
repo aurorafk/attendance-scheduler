@@ -248,7 +248,7 @@ Ensure parent records exist:
 
 ## 👨‍💻 Author
 
-Built by Olusegun Jayesimi
+Built by Liniac Co.
 
 ---
 
